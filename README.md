@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Pathloss Prediction on High Frequency Communication System**
+ 🔭 I’m currently working on **Mern stack developement**
  
- 🌱 I’m currently learning **Python, Machine Learning, Java**
+ 🌱 I’m currently learning **C++, DSA, HTML, CSS, JAVASCRIPT **
 
 </div>
  
