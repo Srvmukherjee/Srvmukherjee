@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Mern stack developement**
  
- 🌱 I’m currently learning **C++, DSA, HTML, CSS, JAVASCRIPT **
+ 🌱 I’m currently learning **C++, DSA, HTML, CSS, JAVASCRIPT** 
 
 </div>
  
