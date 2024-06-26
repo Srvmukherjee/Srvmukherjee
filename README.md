@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Mern stack developement**
+ 🔭 I’m currently working on **Front end developement**
  
  🌱 I’m currently learning **C++, DSA, HTML, CSS, JAVASCRIPT** 
 
